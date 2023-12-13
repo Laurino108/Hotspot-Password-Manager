@@ -1,7 +1,5 @@
 # Hotspot Password Manager 🔐
 
-## Summary 📝
-
 This project aims to allow users to secure their hotspot password with an additional password. If the correct password is entered, the hotspot password will be revealed. The project was created using React.js 🚀
 
 ## Features ✨
